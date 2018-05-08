@@ -17,3 +17,4 @@ teste teste tsc tsci
 
 
 Inserir outra linha e ver git diff
+inseir pra trocar no git sem erro
